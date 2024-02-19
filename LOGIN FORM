@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>www.vaishu.com</title>
+<style>
+button{
+color:white
+}
+div{
+position="";
+text-align:center;
+background-color:white;
+height="10px";
+
+}
+body{
+   background-color:seagreen;
+}
+</style>
+<body>
+
+<div>
+<h1>USER LOGIN</h1>
+<h5>username</h5>
+<input type="label" placeholder="Enter Your Username">
+<h5>password</h5>
+<input type="label" placeholder=" Enter Your Password"><br><br>
+<button style=" background-color: green; color:white:">LOGIN</BUTTON><br><br>
+Forget Password?
+</div>
+
+
+
+
+
+</body>
+</head>
+</html>
