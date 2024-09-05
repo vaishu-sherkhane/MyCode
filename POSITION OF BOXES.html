@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>positons</title>
+ <style>
+   .book,.book2{
+    border:5px solid blueviolet;
+    width:500px;
+    height:200px;
+    margin:15px auto;
+    background-color:yellow;
+   }
+    .book2{
+       position:absolute;
+       
+       top:40px;;
+       left:10px;
+
+
+
+    }
+
+
+
+
+  .box{
+    border:2px solid red;
+    width:100px;
+    height:100px;
+    margin:2px;
+    display:inline-block;
+    vertical-align: top ;
+  }
+ .red{
+    border-color: red;
+ }
+.blue{
+    border-color: blue;
+    position:sticky;
+    right:50px;
+    bottom:60px;
+
+}
+.green{
+    border-color: green;
+    position: relative;
+    right:30px;
+    bottom:20px;
+
+}
+.aqua{
+    border-color:aqua;
+}
+.green2{
+    border-color: green;
+    position:absolute;
+    bottom:30px;  //is used to set a position
+    top:20px;
+}
+
+
+
+
+
+
+ </style>
+
+
+
+
+
+</head>
+<body>
+    <div class="book">
+        <div class="box red "></div>
+        <div class="box blue"></div>
+        <div class="box green">relative</div>
+        <div class="box aqua"></div>
+        
+    </div>
+
+    <div class="book2">
+        <div class="box red"></div>
+        <div class="box blue"></div>
+        <div class="box green2">absolute</div>
+        <div class="box aqua"></div>
+        
+    </div>
+
+
+
+</body>
+</html>
