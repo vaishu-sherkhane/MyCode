@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h3>sherkhane's family</h3>
+
+
+    <ul>
+        <li>vaishnavi</li>
+        <li>anitha</li>
+        <li>vijay</li>
+        <li>sumeet</li>
+    </ul>
+    <h3>sherkhane's family</h3>
+
+    <ol type="A">
+        <li>anitha</li>
+        <li>vijay</li>
+        <li>vaishnavi</li>
+        <li>sumeet</li>
+    </ol>
+    <li><a href="https://youtube.com"> youtube</a></li>
+    <li><a href="https://google.com"> google</a></li>
+
+
+    <ul>
+        <li> <a href="https://youtube.com"> youtube</a> </l>
+        <li> <a href="https://google.com"> google</a></li>
+    </ul>
+
+
+    
+</html>
