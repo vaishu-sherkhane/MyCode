@@ -1,0 +1,9 @@
+<doctype html>
+    <html>
+    <head>
+    <body>
+        <h1>image in html</h1>
+        <img src="https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60" >  
+     </body>      
+    </head>
+    </html>
